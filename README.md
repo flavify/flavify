@@ -14,5 +14,4 @@ Here are some of the hackathons I’ve participated in:
 - [Voice Tune](https://github.com/flavify/voice-tune)
 - [Quantum Digital Payment](https://github.com/Christwelve/Quantum-digital-payment)
 
-## Check out some of my projects below! 👇
-
+Check out some of my projects below! 👇
