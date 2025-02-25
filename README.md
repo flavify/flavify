@@ -1,11 +1,11 @@
 <h2 align="left">Hi there, I'm Flavia 👋</h2>
 
 ## 🌟 About me
-- 📚 Passionate about machine learning and software architecture.
+- 📚 Passionate about computer vision and software architecture.
 - 💡 Enthusiast about creating impactful tech
 
 ## What I’m Learning 🚀
-- 🤖 Reinforcement Learning
+- 🤖 Neural Networks and Deep learning
 - 🐍 Sharpening my Python skills
 
 ## Hackathons 🏆
